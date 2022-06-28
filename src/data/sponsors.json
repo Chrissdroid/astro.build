@@ -33,7 +33,7 @@
             "name": "Marcus Otterström",
             "image": null,
             "initials": "MO",
-            "href": "https://github.com/MarcusOtter"
+            "href": "https://github.com/MarcuOtter"
         },
         {
             "id": 219149,
@@ -258,6 +258,13 @@
             "image": "/assets/sponsors/305931.jpg",
             "initials": "S",
             "href": "https://strapi.io/"
+        },
+        {
+            "id": 306837,
+            "name": "onWidget",
+            "image": "/assets/sponsors/306837.jpg",
+            "initials": "O",
+            "href": "https://onwidget.com"
         }
     ]
 }

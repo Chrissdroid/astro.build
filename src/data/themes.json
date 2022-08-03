@@ -1,21 +1,28 @@
 [
     {
-        "title": "Blog",
-        "description": "An SEO-friendly blog starter.",
+        "title": "Creek",
+        "description": "Creek is an open source blog theme for Astro.",
         "image": {
-            "src": "/assets/themes/blog.png",
-            "alt": "An SEO-friendly blog starter."
+            "src": "/assets/themes/creek.png",
+            "alt": "Creek is an open source blog theme for Astro."
         },
         "repoUrl": {
-            "href": "https://github.com/withastro/astro/tree/main/examples/blog",
-            "text": "Blog"
+            "href": "https://github.com/robertguss/Astro-Theme-Creek",
+            "text": "Creek"
+        },
+        "demoUrl": {
+            "href": "https://astro-theme-creek.netlify.app/",
+            "text": "Creek"
         },
         "categories": [
             "blog"
         ],
-        "tags": [],
-        "official": true,
-        "slug": "blog"
+        "tags": [
+            "js",
+            "tailwind"
+        ],
+        "slug": "creek",
+        "stars": 39
     },
     {
         "title": "Accessible Astro",
@@ -40,78 +47,32 @@
             "scss"
         ],
         "slug": "accessible-astro",
-        "stars": 63
+        "stars": 65
     },
     {
-        "title": "Docs",
-        "description": "A full-featured documentation theme.",
+        "title": "Simple Blog Template",
+        "description": "Lightly opinionated starter template for an Astro blog. Organized to keep markdown files separate from Astro pages.",
         "image": {
-            "src": "/assets/themes/docs.png",
-            "alt": "A full-featured documentation theme."
+            "src": "/assets/themes/simple-blog-template.png",
+            "alt": "Lightly opinionated starter template for an Astro blog. Organized to keep markdown files separate from Astro pages."
         },
         "repoUrl": {
-            "href": "https://github.com/withastro/astro/tree/main/examples/docs",
-            "text": "Docs"
-        },
-        "categories": [
-            "docs"
-        ],
-        "tags": [
-            "preact",
-            "react"
-        ],
-        "official": true,
-        "slug": "docs"
-    },
-    {
-        "title": "Sarissa Blog",
-        "description": "Responsive, functional, personal blog theme for Astro.",
-        "image": {
-            "src": "/assets/themes/sarissa-blog.png",
-            "alt": "Responsive, functional, personal blog theme for Astro."
-        },
-        "repoUrl": {
-            "href": "https://github.com/iozcelik/SarissaBlogAstroStarter",
-            "text": "Sarissa Blog"
+            "href": "https://github.com/OnWritingCode/simple-blog-template",
+            "text": "Simple Blog Template"
         },
         "demoUrl": {
-            "href": "https://sarissa-blog-astro-starter.vercel.app/",
-            "text": "Sarissa Blog"
+            "href": "https://simple-blog-template.netlify.app",
+            "text": "Simple Blog Template"
         },
         "categories": [
-            "blog"
+            "minimal"
         ],
         "tags": [
-            "tailwind",
-            "react",
-            "postcss"
+            "js",
+            "scss"
         ],
-        "slug": "sarissa-blog",
-        "stars": 15
-    },
-    {
-        "title": "Kaamos Astro",
-        "description": "Highly Search Engine Optimized Starter Blog for Astro.",
-        "image": {
-            "src": "/assets/themes/kaamos.png",
-            "alt": "Highly Search Engine Optimized Starter Blog for Astro."
-        },
-        "repoUrl": {
-            "href": "https://github.com/kalervoraitanen/kaamos-astro",
-            "text": "Kaamos Astro"
-        },
-        "demoUrl": {
-            "href": "https://www.kalervoraitanen.com/kaamos/",
-            "text": "Kaamos Astro"
-        },
-        "categories": [
-            "blog"
-        ],
-        "tags": [
-            "js"
-        ],
-        "slug": "kaamos",
-        "stars": 15
+        "slug": "simple-blog-template",
+        "stars": 5
     },
     {
         "title": "Daisy Blog",
@@ -160,6 +121,24 @@
         "stars": 8
     },
     {
+        "title": "Starter Kit",
+        "description": "A no-frills Astro starter.",
+        "image": {
+            "src": "/assets/themes/starter-kit.png",
+            "alt": "A no-frills Astro starter."
+        },
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro/tree/main/examples/starter",
+            "text": "Starter Kit"
+        },
+        "categories": [
+            "minimal"
+        ],
+        "tags": [],
+        "official": true,
+        "slug": "starter-kit"
+    },
+    {
         "title": "Portfolio",
         "description": "Share your hard work with this portfolio starter.",
         "image": {
@@ -179,28 +158,6 @@
         ],
         "official": true,
         "slug": "portfolio"
-    },
-    {
-        "title": "Astro Minimimal Starter",
-        "description": "This starter repo gives you a blog website with posts written in Markdown, all powered by Astro.",
-        "image": {
-            "src": "/assets/themes/astro-minimal-starter.png",
-            "alt": "This starter repo gives you a blog website with posts written in Markdown, all powered by Astro."
-        },
-        "repoUrl": {
-            "href": "https://github.com/jaydanurwin/astro-minimal-starter",
-            "text": "Astro Minimimal Starter"
-        },
-        "demoUrl": {
-            "href": "https://astro-minimal-starter.netlify.app/",
-            "text": "Astro Minimimal Starter"
-        },
-        "categories": [
-            "minimal"
-        ],
-        "tags": [],
-        "slug": "astro-minimal-starter",
-        "stars": 33
     },
     {
         "title": "Astro Blog Markdown",
@@ -249,74 +206,117 @@
             "tailwind"
         ],
         "slug": "astro-ink",
-        "stars": 171
+        "stars": 173
     },
     {
-        "title": "Creek",
-        "description": "Creek is an open source blog theme for Astro.",
+        "title": "Sarissa Blog",
+        "description": "Responsive, functional, personal blog theme for Astro.",
         "image": {
-            "src": "/assets/themes/creek.png",
-            "alt": "Creek is an open source blog theme for Astro."
+            "src": "/assets/themes/sarissa-blog.png",
+            "alt": "Responsive, functional, personal blog theme for Astro."
         },
         "repoUrl": {
-            "href": "https://github.com/robertguss/Astro-Theme-Creek",
-            "text": "Creek"
+            "href": "https://github.com/iozcelik/SarissaBlogAstroStarter",
+            "text": "Sarissa Blog"
         },
         "demoUrl": {
-            "href": "https://astro-theme-creek.netlify.app/",
-            "text": "Creek"
+            "href": "https://sarissa-blog-astro-starter.vercel.app/",
+            "text": "Sarissa Blog"
         },
         "categories": [
             "blog"
         ],
         "tags": [
-            "js",
-            "tailwind"
+            "tailwind",
+            "react",
+            "postcss"
         ],
-        "slug": "creek",
-        "stars": 39
+        "slug": "sarissa-blog",
+        "stars": 15
     },
     {
-        "title": "Starter Kit",
-        "description": "A no-frills Astro starter.",
+        "title": "Blog",
+        "description": "An SEO-friendly blog starter.",
         "image": {
-            "src": "/assets/themes/starter-kit.png",
-            "alt": "A no-frills Astro starter."
+            "src": "/assets/themes/blog.png",
+            "alt": "An SEO-friendly blog starter."
         },
         "repoUrl": {
-            "href": "https://github.com/withastro/astro/tree/main/examples/starter",
-            "text": "Starter Kit"
+            "href": "https://github.com/withastro/astro/tree/main/examples/blog",
+            "text": "Blog"
+        },
+        "categories": [
+            "blog"
+        ],
+        "tags": [],
+        "official": true,
+        "slug": "blog"
+    },
+    {
+        "title": "Docs",
+        "description": "A full-featured documentation theme.",
+        "image": {
+            "src": "/assets/themes/docs.png",
+            "alt": "A full-featured documentation theme."
+        },
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro/tree/main/examples/docs",
+            "text": "Docs"
+        },
+        "categories": [
+            "docs"
+        ],
+        "tags": [
+            "preact",
+            "react"
+        ],
+        "official": true,
+        "slug": "docs"
+    },
+    {
+        "title": "Astro Minimimal Starter",
+        "description": "This starter repo gives you a blog website with posts written in Markdown, all powered by Astro.",
+        "image": {
+            "src": "/assets/themes/astro-minimal-starter.png",
+            "alt": "This starter repo gives you a blog website with posts written in Markdown, all powered by Astro."
+        },
+        "repoUrl": {
+            "href": "https://github.com/jaydanurwin/astro-minimal-starter",
+            "text": "Astro Minimimal Starter"
+        },
+        "demoUrl": {
+            "href": "https://astro-minimal-starter.netlify.app/",
+            "text": "Astro Minimimal Starter"
         },
         "categories": [
             "minimal"
         ],
         "tags": [],
-        "official": true,
-        "slug": "starter-kit"
+        "slug": "astro-minimal-starter",
+        "stars": 33
     },
     {
-        "title": "Simple Blog Template",
-        "description": "Lightly opinionated starter template for an Astro blog. Organized to keep markdown files separate from Astro pages.",
+        "title": "Kaamos Astro",
+        "description": "Highly Search Engine Optimized Starter Blog for Astro.",
         "image": {
-            "src": "/assets/themes/simple-blog-template.png",
-            "alt": "Lightly opinionated starter template for an Astro blog. Organized to keep markdown files separate from Astro pages."
+            "src": "/assets/themes/kaamos.png",
+            "alt": "Highly Search Engine Optimized Starter Blog for Astro."
         },
         "repoUrl": {
-            "href": "https://github.com/OnWritingCode/simple-blog-template",
-            "text": "Simple Blog Template"
+            "href": "https://github.com/kalervoraitanen/kaamos-astro",
+            "text": "Kaamos Astro"
         },
         "demoUrl": {
-            "href": "https://simple-blog-template.netlify.app",
-            "text": "Simple Blog Template"
+            "href": "https://www.kalervoraitanen.com/kaamos/",
+            "text": "Kaamos Astro"
         },
         "categories": [
-            "minimal"
+            "blog"
         ],
         "tags": [
-            "js",
-            "scss"
+            "js"
         ],
-        "slug": "simple-blog-template",
-        "stars": 4
+        "slug": "kaamos",
+        "stars": 15
     }
 ]

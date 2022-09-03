@@ -279,6 +279,13 @@
             "image": null,
             "initials": "CF",
             "href": null
+        },
+        {
+            "id": 329226,
+            "name": "GitHub Sponsors",
+            "image": "/assets/sponsors/329226.jpg",
+            "initials": "GS",
+            "href": "https://github.com/sponsors/"
         }
     ]
 }

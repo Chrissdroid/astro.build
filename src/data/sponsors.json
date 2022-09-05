@@ -286,6 +286,13 @@
             "image": "/assets/sponsors/329226.jpg",
             "initials": "GS",
             "href": "https://github.com/sponsors/"
+        },
+        {
+            "id": 330741,
+            "name": "Athul Suresh",
+            "image": null,
+            "initials": "AS",
+            "href": null
         }
     ]
 }

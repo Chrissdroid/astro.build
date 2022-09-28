@@ -307,6 +307,13 @@
             "image": "/assets/sponsors/332976.jpg",
             "initials": "FH",
             "href": "https://twitter.com/shiftgeist"
+        },
+        {
+            "id": 336324,
+            "name": "Daniel Saunders",
+            "image": "/assets/sponsors/336324.jpg",
+            "initials": "DS",
+            "href": null
         }
     ]
 }

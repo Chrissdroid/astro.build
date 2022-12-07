@@ -1,253 +1,101 @@
 [
     {
-        "slug": "@astrojs/markdown-component",
-        "title": "@astrojs/markdown-component",
-        "description": "This package brings legacy support for the `<Markdown />` component to all Astro projects.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/markdown-component",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://docs.astro.build/en/migrate/#markdown--component-removed",
-            "text": "View homepage"
-        },
-        "downloads": 2044
-    },
-    {
-        "slug": "@astrojs/prism",
-        "title": "@astrojs/prism",
-        "description": "Supports Prism highlighting in Astro projects",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/prism",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://docs.astro.build/en/reference/api-reference/#prism-",
-            "text": "View homepage"
-        },
-        "downloads": 27780
-    },
-    {
-        "slug": "accessible-astro-components",
-        "title": "accessible-astro-components",
-        "description": "A set of Accessible, easy to use, Front-end UI Components for Astro.",
-        "categories": [
-            "css+ui",
-            "accessibility"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/markteekman/accessible-astro-components",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/accessible-astro-components",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://accessible-astro.dev",
-            "text": "View homepage"
-        },
-        "downloads": 112,
-        "stars": 84
-    },
-    {
-        "slug": "@astrojs/lit",
-        "title": "@astrojs/lit",
-        "description": "Use Lit components within Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/lit",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "@astrojs/lit",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/lit"
-        },
-        "image": {
-            "alt": "@astrojs/lit",
-            "src": "/assets/integrations/lit.svg"
-        },
-        "downloads": 988
-    },
-    {
-        "slug": "astro-seo-meta",
-        "title": "astro-seo-meta",
-        "description": "Astro seo provides a <Seo> component to update meta tags",
+        "slug": "@astrojs/alpinejs",
+        "title": "@astrojs/alpinejs",
+        "description": "The official Alpine.js integration for Astro.",
         "categories": [
             "css+ui",
             "performance",
             "seo"
         ],
-        "official": false,
+        "official": true,
         "repoUrl": {
-            "href": "https://github.com/codiume/orbit",
+            "href": "https://github.com/withastro/astro",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-seo-meta",
+            "href": "https://www.npmjs.com/package/@astrojs/alpinejs",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/codiume/orbit",
+            "href": "https://docs.astro.build/en/guides/integrations-guide/alpinejs",
             "text": "View homepage"
         },
-        "downloads": 81,
-        "stars": 57
+        "downloads": 390
     },
     {
-        "slug": "@jop-software/astro-matomo",
-        "title": "@jop-software/astro-matomo",
-        "description": "Matomo integration for Astro",
+        "slug": "agnostic-astro",
+        "title": "agnostic-astro",
+        "description": "AgnosticUI (Astro)",
         "categories": [
-            "css+ui",
-            "analytics"
+            "css+ui"
         ],
         "official": false,
         "repoUrl": {
-            "href": "https://github.com/jop-software/astro-matomo",
+            "href": "https://github.com/AgnosticUI/agnosticui",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/@jop-software/astro-matomo",
+            "href": "https://www.npmjs.com/package/agnostic-astro",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/jop-software/astro-matomo#readme",
+            "href": "https://github.com/AgnosticUI/agnosticui#readme",
+            "text": "View homepage"
+        },
+        "downloads": 39,
+        "stars": 530
+    },
+    {
+        "slug": "@astrojs/mdx",
+        "title": "@astrojs/mdx",
+        "description": "Use MDX within Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/mdx",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://docs.astro.build/en/guides/integrations-guide/mdx/",
+            "text": "View homepage"
+        },
+        "downloads": 6086
+    },
+    {
+        "slug": "@futurefabric/astro-imagetools",
+        "title": "@futurefabric/astro-imagetools",
+        "description": "Image Optimization tools for the Astro JS framework",
+        "categories": [
+            "css+ui",
+            "performance"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/RafidMuhymin/astro-imagetools",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@futurefabric/astro-imagetools",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/RafidMuhymin/astro-imagetools#readme",
             "text": "View homepage"
         },
         "downloads": 16,
-        "stars": 0
+        "stars": 180
     },
     {
-        "slug": "astro-partytown-resolveurl",
-        "title": "astro-partytown-resolveurl",
-        "description": "Astro + Partytown integration",
-        "categories": [
-            "css+ui",
-            "analytics",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-partytown-resolveurl",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://docs.astro.build/en/guides/integrations-guide/partytown/",
-            "text": "View homepage"
-        },
-        "downloads": 0,
-        "stars": 23125
-    },
-    {
-        "slug": "astro-breakpoints",
-        "title": "astro-breakpoints",
-        "description": "Provides cross languages breakpoints handlers for your app. SCSS mixin, JS hook and a DOM data attribute, all share the same responsive scale you choose to feed in.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-breakpoints",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-breakpoints",
-            "text": "View homepage"
-        },
-        "downloads": 1,
-        "stars": 55
-    },
-    {
-        "slug": "hello-astro",
-        "title": "hello-astro",
-        "description": "An Astro component that returns a random greeting in a random language",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/Pukimaa/hello-astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/hello-astro",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://hello-astro.vercel.app/",
-            "text": "View homepage"
-        },
-        "image": {
-            "alt": "hello-astro",
-            "src": "/assets/integrations/hello-astro.png"
-        },
-        "downloads": 15,
-        "stars": 1
-    },
-    {
-        "slug": "@astrojs/solid-js",
-        "title": "@astrojs/solid-js",
-        "description": "Use Solid components within Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/solid-js",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "@astrojs/slid-js",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/solid"
-        },
-        "image": {
-            "alt": "@astrojs/solid-js",
-            "src": "/assets/integrations/solid.svg"
-        },
-        "downloads": 1692
-    },
-    {
-        "slug": "astro-i18n",
-        "title": "astro-i18n",
-        "description": "A TypeScript-first internationalization library for Astro.",
+        "slug": "astro-i18next",
+        "title": "astro-i18next",
+        "description": "An astro integration of i18next + some utility components to help you translate your astro websites!",
         "categories": [
             "css+ui",
             "performance",
@@ -255,115 +103,19 @@
         ],
         "official": false,
         "repoUrl": {
-            "href": "https://github.com/alexandre-fernandez/astro-i18n",
+            "href": "https://github.com/yassinedoghri/astro-i18next",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-i18n",
+            "href": "https://www.npmjs.com/package/astro-i18next",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/alexandre-fernandez/astro-i18n",
+            "href": "https://astro-i18next.yassinedoghri.com/",
             "text": "View homepage"
         },
-        "downloads": 382,
-        "stars": 12
-    },
-    {
-        "slug": "astro-base-document",
-        "title": "astro-base-document",
-        "description": "Provide sensible defaults for HTML base document.  \nThe goal is to reduce boilerplate when using multiple layouts in Astro projects.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-base-document",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-base",
-            "text": "View homepage"
-        },
-        "downloads": 0,
-        "stars": 55
-    },
-    {
-        "slug": "astro-analytics",
-        "title": "astro-analytics",
-        "description": "Analytics components for Astro",
-        "categories": [
-            "css+ui",
-            "analytics"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/Destiner/astro-analytics",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-analytics",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/Destiner/astro-analytics#readme",
-            "text": "View homepage"
-        },
-        "downloads": 132,
-        "stars": 38
-    },
-    {
-        "slug": "astro-partytown-resolveurl-2",
-        "title": "astro-partytown-resolveurl-2",
-        "description": "Astro + Partytown integration",
-        "categories": [
-            "css+ui",
-            "analytics",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-partytown-resolveurl-2",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://docs.astro.build/en/guides/integrations-guide/partytown/",
-            "text": "View homepage"
-        },
-        "downloads": 0,
-        "stars": 23125
-    },
-    {
-        "slug": "@igor.dvlpr/astro-post-excerpt",
-        "title": "@igor.dvlpr/astro-post-excerpt",
-        "description": "⭐ An Astro component that renders post excerpts for your Astro blog - directly from your Markdown files! 💎",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/igorskyflyer/npm-astro-post-excerpt",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@igor.dvlpr/astro-post-excerpt",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/igorskyflyer/npm-astro-post-excerpt#readme",
-            "text": "View homepage"
-        },
-        "downloads": 59,
-        "stars": 4
+        "downloads": 1312,
+        "stars": 157
     },
     {
         "slug": "@astro-auth/core",
@@ -381,36 +133,150 @@
             "href": "https://www.npmjs.com/package/@astro-auth/core",
             "text": "View on NPM"
         },
-        "downloads": 81
+        "downloads": 72
     },
     {
-        "slug": "astro-breadcrumbs",
-        "title": "astro-breadcrumbs",
-        "description": "Dynamic breadcrumbs component for Astro.js.",
+        "slug": "@astrojs/image",
+        "title": "@astrojs/image",
+        "description": "Load and transform images in your Astro site.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/image",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://docs.astro.build/en/guides/integrations-guide/image/",
+            "text": "View homepage"
+        },
+        "downloads": 6003
+    },
+    {
+        "slug": "@julian_cataldo/astro-resets",
+        "title": "@julian_cataldo/astro-resets",
+        "description": "Common CSS resets in a configurable Astro component. Only needed CSS is injected into critical path.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@julian_cataldo/astro-resets",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-resets",
+            "text": "View homepage"
+        },
+        "downloads": 1,
+        "stars": 55
+    },
+    {
+        "slug": "@jasikpark/astro-svg-loader",
+        "title": "@jasikpark/astro-svg-loader",
+        "description": "[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjasikpark%2Fastro-svg-loader.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjasikpark%2Fastro-svg-loader?ref=badge_shield)",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/jasikpark/astro-svg-loader",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@jasikpark/astro-svg-loader",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/jasikpark/astro-svg-loader#readme",
+            "text": "View homepage"
+        },
+        "downloads": 84,
+        "stars": 8
+    },
+    {
+        "slug": "@sarissa/pagination",
+        "title": "@sarissa/pagination",
+        "description": "Add page number buttons for pagination. Automaticly add and disable numbers as current page number.",
         "categories": [
             "css+ui",
             "accessibility"
         ],
         "official": false,
         "repoUrl": {
-            "href": "https://github.com/felix-berlin/astro-breadcrumbs",
+            "href": "https://github.com/iozcelik/SarissaPagination",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-breadcrumbs",
+            "href": "https://www.npmjs.com/package/@sarissa/pagination",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/felix-berlin/astro-breadcrumbs#readme",
+            "alt": "View on Github",
+            "href": "https://github.com/iozcelik/SarissaPagination"
+        },
+        "downloads": 8,
+        "stars": 9
+    },
+    {
+        "slug": "astro-link",
+        "title": "astro-link",
+        "description": "Supercharge your links. This component detects external / anchor / same domain / mail / telephone `href`, and apply optimizations accordingly.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-link",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-link",
             "text": "View homepage"
         },
-        "downloads": 22,
-        "stars": 0
+        "downloads": 14,
+        "stars": 55
     },
     {
-        "slug": "@astrojs/svelte",
-        "title": "@astrojs/svelte",
-        "description": "Use Svelte components within Astro",
+        "slug": "astro-sanity",
+        "title": "astro-sanity",
+        "description": "A helper package to integrate Astro and Sanity",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/littlesticks/astro-sanity",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-sanity",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/littlesticks/astro-sanity#readme",
+            "text": "View homepage"
+        },
+        "downloads": 54,
+        "stars": 32
+    },
+    {
+        "slug": "@astrojs/preact",
+        "title": "@astrojs/preact",
+        "description": "Use Preact components within Astro",
         "categories": [
             "css+ui"
         ],
@@ -420,23 +286,111 @@
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/svelte",
+            "href": "https://www.npmjs.com/package/@astrojs/preact",
             "text": "View on NPM"
         },
         "url": {
-            "alt": "@astrojs/svelte",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/svelte"
+            "alt": "@astrojs/preact",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/preact"
         },
         "image": {
-            "alt": "@astrojs/svelte",
-            "src": "/assets/integrations/svelte.svg"
+            "alt": "@astrojs/preact",
+            "src": "/assets/integrations/preact.svg"
         },
-        "downloads": 4057
+        "downloads": 2181
     },
     {
-        "slug": "@astrojs/vercel",
-        "title": "@astrojs/vercel",
-        "description": "Deploy your site to Vercel",
+        "slug": "astro-seo",
+        "title": "astro-seo",
+        "description": "Makes it easy to add SEO relevant tags to your Astro app.",
+        "categories": [
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/jonasmerlin/astro-seo",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-seo",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/jonasmerlin/astro-seo#readme",
+            "text": "View homepage"
+        },
+        "downloads": 1404,
+        "stars": 281
+    },
+    {
+        "slug": "@lloydjatkinson/astro-snipcart-design-system",
+        "title": "@lloydjatkinson/astro-snipcart-design-system",
+        "description": "This is [an unofficial template](#how-is-this-different-from-the-official-component-template) meant to ease the development of components for [Astro](https://astro.build/) that are intended for distribution. It does so by providing you with:",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart-design-system",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart-design-system",
+            "text": "View on NPM"
+        },
+        "downloads": 0
+    },
+    {
+        "slug": "astro-iconify",
+        "title": "astro-iconify",
+        "description": "Fork of astro-icon. Lets you easily use the up to date iconify service as a straight forward astro icon component.",
+        "categories": [
+            "css+ui",
+            "performance"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/manuelmeister/astro-iconify",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-iconify",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/manuelmeister/astro-iconify#readme",
+            "text": "View homepage"
+        },
+        "downloads": 6,
+        "stars": 3
+    },
+    {
+        "slug": "@astro-community/astro-embed-youtube",
+        "title": "@astro-community/astro-embed-youtube",
+        "description": "Component to easily embed YouTube videos on your Astro site",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/astro-community/astro-embed",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astro-community/astro-embed-youtube",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/astro-community/astro-embed/tree/main/packages/astro-embed-youtube#readme",
+            "text": "View homepage"
+        },
+        "downloads": 409,
+        "stars": 33
+    },
+    {
+        "slug": "@astrojs/tailwind",
+        "title": "@astrojs/tailwind",
+        "description": "Tailwind + Astro Integrations",
         "categories": [
             "css+ui"
         ],
@@ -446,18 +400,104 @@
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/vercel",
+            "href": "https://www.npmjs.com/package/@astrojs/tailwind",
             "text": "View on NPM"
         },
         "url": {
-            "alt": "@astrojs/vercel",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/vercel"
+            "alt": "@astrojs/tailwind",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/tailwind"
         },
         "image": {
-            "alt": "@astrojs/vercel",
-            "src": "/assets/integrations/vercel.svg"
+            "alt": "@astrojs/tailwind",
+            "src": "/assets/integrations/tailwind.svg"
         },
-        "downloads": 1650
+        "downloads": 12866
+    },
+    {
+        "slug": "astro-template-outlet",
+        "title": "astro-template-outlet",
+        "description": "You can't store the result of astro html expressions in a variable at all but you can use templates. Templates are\r a good alternative to using JSX as variables and storing them in functions. The thing is that You don't have a way\r of using the html that ",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-template-outlet",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://www.npmjs.com/package/astro-template-outlet",
+            "text": "View on NPM"
+        },
+        "downloads": 234
+    },
+    {
+        "slug": "astro-katex",
+        "title": "astro-katex",
+        "description": "use KaTex and Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-katex",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/victor0x16/astro-katex#readme",
+            "text": "View homepage"
+        },
+        "downloads": 45
+    },
+    {
+        "slug": "astro-html-minifier",
+        "title": "astro-html-minifier",
+        "description": "A HTML minifier for Astro",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "ssh://git@github.com/sondr3/astro-html-minifier",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-html-minifier",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/sondr3/astro-html-minifier#readme",
+            "text": "View homepage"
+        },
+        "downloads": 88,
+        "stars": 3
+    },
+    {
+        "slug": "astro-critters",
+        "title": "astro-critters",
+        "description": "🦔 AstroJS GoogleChromeLabs critters integration. Inline your critical CSS with Astro.",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/astro-community/astro-critters",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-critters",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/astro-community/astro-critters#readme",
+            "text": "View homepage"
+        },
+        "downloads": 1152,
+        "stars": 32
     },
     {
         "slug": "@astrojs/partytown",
@@ -486,48 +526,188 @@
             "alt": "@astrojs/partytown",
             "src": "/assets/integrations/partytown.svg"
         },
-        "downloads": 2521
+        "downloads": 2666
     },
     {
-        "slug": "astro-template-outlet",
-        "title": "astro-template-outlet",
-        "description": "You can't store the result of astro html expressions in a variable at all but you can use templates. Templates are\r a good alternative to using JSX as variables and storing them in functions. The thing is that You don't have a way\r of using the html that ",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-template-outlet",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://www.npmjs.com/package/astro-template-outlet",
-            "text": "View on NPM"
-        },
-        "downloads": 216
-    },
-    {
-        "slug": "astro-layouts",
-        "title": "astro-layouts",
-        "description": "remark plugin to add folder-based layouts to MD and MDX files in Astro",
+        "slug": "hello-astro",
+        "title": "hello-astro",
+        "description": "An Astro component that returns a random greeting in a random language",
         "categories": [
             "css+ui"
         ],
         "official": false,
         "repoUrl": {
-            "href": "https://github.com/kevinzunigacuellar/astro-layouts",
+            "href": "https://github.com/Pukimaa/hello-astro",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-layouts",
+            "href": "https://www.npmjs.com/package/hello-astro",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/kevinzunigacuellar/astro-layouts#README",
+            "href": "https://hello-astro.vercel.app/",
             "text": "View homepage"
         },
-        "downloads": 60,
-        "stars": 12
+        "image": {
+            "alt": "hello-astro",
+            "src": "/assets/integrations/hello-astro.png"
+        },
+        "downloads": 13,
+        "stars": 1
+    },
+    {
+        "slug": "@astro-auth/client",
+        "title": "@astro-auth/client",
+        "description": "The client package of the Astro Auth library",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astro-auth/client",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://www.npmjs.com/package/@astro-auth/client",
+            "text": "View on NPM"
+        },
+        "downloads": 68
+    },
+    {
+        "slug": "astro-imagetools",
+        "title": "astro-imagetools",
+        "description": "Image Optimization tools for the Astro JS framework",
+        "categories": [
+            "css+ui",
+            "performance"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/RafidMuhymin/astro-imagetools",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-imagetools",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/RafidMuhymin/astro-imagetools#readme",
+            "text": "View homepage"
+        },
+        "downloads": 1006,
+        "stars": 180
+    },
+    {
+        "slug": "astro-compressor",
+        "title": "astro-compressor",
+        "description": "A gzip and brotli compressor for Astro",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "ssh://git@github.com/sondr3/astro-compressor",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-compressor",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/sondr3/astro-compressor#readme",
+            "text": "View homepage"
+        },
+        "downloads": 120,
+        "stars": 6
+    },
+    {
+        "slug": "astro-terminal-player",
+        "title": "astro-terminal-player",
+        "description": "Embed player for terminal sessions (recorded with asciinema) in your Astro project.\nUsing asciinema player under the hood.\nComes with full asciinema player settings support, typings and docs hints.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-terminal-player",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-terminal-player",
+            "text": "View homepage"
+        },
+        "downloads": 3,
+        "stars": 55
+    },
+    {
+        "slug": "@lloydjatkinson/astro-snipcart",
+        "title": "@lloydjatkinson/astro-snipcart",
+        "description": "This is [an unofficial template](#how-is-this-different-from-the-official-component-template) meant to ease the development of components for [Astro](https://astro.build/) that are intended for distribution. It does so by providing you with:",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart",
+            "text": "View on NPM"
+        },
+        "downloads": 7
+    },
+    {
+        "slug": "astro-breakpoints",
+        "title": "astro-breakpoints",
+        "description": "Provides cross languages breakpoints handlers for your app. SCSS mixin, JS hook and a DOM data attribute, all share the same responsive scale you choose to feed in.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-breakpoints",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-breakpoints",
+            "text": "View homepage"
+        },
+        "downloads": 2,
+        "stars": 55
+    },
+    {
+        "slug": "astro-xelement",
+        "title": "astro-xelement",
+        "description": "XElement is a powerful Astro Web Component generator. Create your own Astro compliant Web Components using only HTML Elements with additional Client-Side JS/TS interactivity sprinkled into the Element.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/aFuzzyBear/xelement",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-xelement",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/aFuzzyBear/xelement",
+            "text": "View homepage"
+        },
+        "downloads": 58,
+        "stars": 34
     },
     {
         "slug": "astro-color-mode",
@@ -550,6 +730,55 @@
             "text": "View homepage"
         },
         "downloads": 3,
+        "stars": 55
+    },
+    {
+        "slug": "@astrojs/netlify",
+        "title": "@astrojs/netlify",
+        "description": "Deploy your site to Netlify",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/netlify",
+            "text": "View on NPM"
+        },
+        "url": {
+            "alt": "@astrojs/netlify",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/netlify"
+        },
+        "image": {
+            "alt": "@astrojs/netlify",
+            "src": "/assets/integrations/netlify.svg"
+        },
+        "downloads": 704
+    },
+    {
+        "slug": "astro-licenses-report",
+        "title": "astro-licenses-report",
+        "description": "Give credits to the awesome JS open-source community with this component. It will generate a table with important informations about packages used by your project.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-licenses-report",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-licenses-report",
+            "text": "View homepage"
+        },
+        "downloads": 1,
         "stars": 55
     },
     {
@@ -576,9 +805,35 @@
         "stars": 6
     },
     {
-        "slug": "@astrojs/sitemap",
-        "title": "@astrojs/sitemap",
-        "description": "Generate a sitemap for Astro",
+        "slug": "@astrojs/node",
+        "title": "@astrojs/node",
+        "description": "Deploy your site to a Node.js server",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/node",
+            "text": "View on NPM"
+        },
+        "url": {
+            "alt": "@astrojs/node",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/node"
+        },
+        "image": {
+            "alt": "@astrojs/node",
+            "src": "/assets/integrations/node.svg"
+        },
+        "downloads": 2842
+    },
+    {
+        "slug": "@astrojs/turbolinks",
+        "title": "@astrojs/turbolinks",
+        "description": "Turbolinks + Astro Integrations",
         "categories": [
             "css+ui",
             "performance",
@@ -590,189 +845,91 @@
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/sitemap",
+            "href": "https://www.npmjs.com/package/@astrojs/turbolinks",
             "text": "View on NPM"
         },
         "url": {
-            "alt": "@astrojs/sitemap",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/sitemap"
+            "alt": "@astrojs/turbolinks",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/turbolinks"
         },
         "image": {
-            "alt": "@astrojs/sitemap",
-            "src": "/assets/integrations/sitemap.svg"
+            "alt": "@astrojs/turbolinks",
+            "src": "/assets/integrations/turbolinks.svg"
         },
-        "downloads": 8739
+        "downloads": 115
     },
     {
-        "slug": "astro-emoji",
-        "title": "astro-emoji",
-        "description": "An accessible emoji component for Astro applications",
+        "slug": "@astrojs/lit",
+        "title": "@astrojs/lit",
+        "description": "Use Lit components within Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/lit",
+            "text": "View on NPM"
+        },
+        "url": {
+            "alt": "@astrojs/lit",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/lit"
+        },
+        "image": {
+            "alt": "@astrojs/lit",
+            "src": "/assets/integrations/lit.svg"
+        },
+        "downloads": 988
+    },
+    {
+        "slug": "astro-layouts",
+        "title": "astro-layouts",
+        "description": "remark plugin to add folder-based layouts to MD and MDX files in Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/kevinzunigacuellar/astro-layouts",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-layouts",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/kevinzunigacuellar/astro-layouts#README",
+            "text": "View homepage"
+        },
+        "downloads": 52,
+        "stars": 12
+    },
+    {
+        "slug": "astro-breadcrumbs",
+        "title": "astro-breadcrumbs",
+        "description": "Dynamic breadcrumbs component for Astro.js.",
         "categories": [
             "css+ui",
             "accessibility"
         ],
         "official": false,
         "repoUrl": {
-            "href": "https://github.com/seanmcp/astro-emoji",
+            "href": "https://github.com/felix-berlin/astro-breadcrumbs",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-emoji",
+            "href": "https://www.npmjs.com/package/astro-breadcrumbs",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/seanmcp/astro-emoji#readme",
+            "href": "https://github.com/felix-berlin/astro-breadcrumbs#readme",
             "text": "View homepage"
         },
-        "downloads": 27,
-        "stars": 2
-    },
-    {
-        "slug": "@astrojs/alpinejs",
-        "title": "@astrojs/alpinejs",
-        "description": "The official Alpine.js integration for Astro.",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/alpinejs",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://docs.astro.build/en/guides/integrations-guide/alpinejs",
-            "text": "View homepage"
-        },
-        "downloads": 390
-    },
-    {
-        "slug": "astro-icon",
-        "title": "astro-icon",
-        "description": "A straight-forward `Icon` component for [Astro](https://astro.build).",
-        "categories": [
-            "css+ui",
-            "performance"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/natemoo-re/astro-icon",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-icon",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/natemoo-re/astro-icon#readme",
-            "text": "View homepage"
-        },
-        "image": {
-            "alt": "astro-icon",
-            "src": "/assets/integrations/astro-icon.svg"
-        },
-        "downloads": 2533,
-        "stars": 258
-    },
-    {
-        "slug": "astro-compressor",
-        "title": "astro-compressor",
-        "description": "A gzip and brotli compressor for Astro",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "ssh://git@github.com/sondr3/astro-compressor",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-compressor",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/sondr3/astro-compressor#readme",
-            "text": "View homepage"
-        },
-        "downloads": 112,
-        "stars": 5
-    },
-    {
-        "slug": "astro-sanity",
-        "title": "astro-sanity",
-        "description": "A helper package to integrate Astro and Sanity",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/littlesticks/astro-sanity",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-sanity",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/littlesticks/astro-sanity#readme",
-            "text": "View homepage"
-        },
-        "downloads": 68,
-        "stars": 32
-    },
-    {
-        "slug": "astro-fonts-next",
-        "title": "astro-fonts-next",
-        "description": "Astro integration that works the same way as Next.js font optimization.",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/dc7290/astro-fonts-next",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-fonts-next",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/dc7290/astro-fonts-next#readme",
-            "text": "View homepage"
-        },
-        "downloads": 52,
-        "stars": 13
-    },
-    {
-        "slug": "@astrojs/mdx",
-        "title": "@astrojs/mdx",
-        "description": "Use MDX within Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/mdx",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://docs.astro.build/en/guides/integrations-guide/mdx/",
-            "text": "View homepage"
-        },
-        "downloads": 5836
+        "downloads": 19,
+        "stars": 0
     },
     {
         "slug": "@chisel-ui/astro",
@@ -802,526 +959,68 @@
         "stars": 2
     },
     {
-        "slug": "@storyblok/astro",
-        "title": "@storyblok/astro",
-        "description": "Official Astro integration for the Storyblok Headless CMS",
+        "slug": "astro-heroicons",
+        "title": "astro-heroicons",
+        "description": "Heroicons as Astro components",
         "categories": [
             "css+ui"
         ],
         "official": false,
         "repoUrl": {
-            "href": "https://github.com/storyblok/storyblok-astro",
+            "href": "https://github.com/seanmcp/astro-heroicons",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/@storyblok/astro",
+            "href": "https://www.npmjs.com/package/astro-heroicons",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/storyblok/storyblok-astro",
+            "href": "https://github.com/seanmcp/astro-heroicons#readme",
             "text": "View homepage"
         },
-        "downloads": 112,
-        "stars": 25
+        "downloads": 76,
+        "stars": 2
     },
     {
-        "slug": "astro-feather-icons",
-        "title": "astro-feather-icons",
-        "description": "Feather icons for Astro (based on svelte-feather-icons by dylanblokhuis)",
+        "slug": "@astro-reactive/validator",
+        "title": "@astro-reactive/validator",
+        "description": "Form validation library for Astro 🔥",
         "categories": [
             "css+ui"
         ],
         "official": false,
         "repoUrl": {
-            "href": "https://github.com/edazpotato/astro-feather-icons",
+            "href": "https://github.com/ayoayco/astro-reactive-library",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-feather-icons",
+            "href": "https://www.npmjs.com/package/@astro-reactive/validator",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/edazpotato/astro-feather-icons#readme",
+            "href": "https://github.com/ayoayco/astro-reactive-library/blob/main/packages/validator/README.md",
             "text": "View homepage"
         },
-        "downloads": 179,
-        "stars": 4
+        "downloads": 113,
+        "stars": 56
     },
     {
-        "slug": "@astrojs/react",
-        "title": "@astrojs/react",
-        "description": "Use React components within Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/react",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "@astrojs/react",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/react"
-        },
-        "image": {
-            "alt": "@astrojs/react",
-            "src": "/assets/integrations/react.svg"
-        },
-        "downloads": 7078
-    },
-    {
-        "slug": "astro-link",
-        "title": "astro-link",
-        "description": "Supercharge your links. This component detects external / anchor / same domain / mail / telephone `href`, and apply optimizations accordingly.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-link",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-link",
-            "text": "View homepage"
-        },
-        "downloads": 15,
-        "stars": 55
-    },
-    {
-        "slug": "astro-github-stats",
-        "title": "astro-github-stats",
-        "description": "Embed GitHub stats in your Astro page ✨",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/ayoayco/astro-github-stats",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-github-stats",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://ayco.io/showcase/astro-github-stats",
-            "text": "View homepage"
-        },
-        "downloads": 10,
-        "stars": 3
-    },
-    {
-        "slug": "astro-seo",
-        "title": "astro-seo",
-        "description": "Makes it easy to add SEO relevant tags to your Astro app.",
-        "categories": [
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/jonasmerlin/astro-seo",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-seo",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/jonasmerlin/astro-seo#readme",
-            "text": "View homepage"
-        },
-        "downloads": 1220,
-        "stars": 280
-    },
-    {
-        "slug": "@jasikpark/astro-svg-loader",
-        "title": "@jasikpark/astro-svg-loader",
-        "description": "[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjasikpark%2Fastro-svg-loader.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjasikpark%2Fastro-svg-loader?ref=badge_shield)",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/jasikpark/astro-svg-loader",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@jasikpark/astro-svg-loader",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/jasikpark/astro-svg-loader#readme",
-            "text": "View homepage"
-        },
-        "downloads": 82,
-        "stars": 7
-    },
-    {
-        "slug": "astro-geo-map",
-        "title": "astro-geo-map",
-        "description": "Embed an interactive map in your webpage.\nUsing Leaflet.js under the hood.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-geo-map",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-geo-map",
-            "text": "View homepage"
-        },
-        "downloads": 5,
-        "stars": 55
-    },
-    {
-        "slug": "astro-spa",
-        "title": "astro-spa",
-        "description": "A component for Astro JS that turns a website into an SPA",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/RafidMuhymin/astro-spa",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-spa",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/RafidMuhymin/astro-spa#readme",
-            "text": "View homepage"
-        },
-        "downloads": 101,
-        "stars": 250
-    },
-    {
-        "slug": "astro-terminal-player",
-        "title": "astro-terminal-player",
-        "description": "Embed player for terminal sessions (recorded with asciinema) in your Astro project.\nUsing asciinema player under the hood.\nComes with full asciinema player settings support, typings and docs hints.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-terminal-player",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-terminal-player",
-            "text": "View homepage"
-        },
-        "downloads": 1,
-        "stars": 55
-    },
-    {
-        "slug": "astro-robots-txt",
-        "title": "astro-robots-txt",
-        "description": "Generate a robots.txt for Astro",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/alextim/astro-lib",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-robots-txt",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme",
-            "text": "View homepage"
-        },
-        "downloads": 1303,
-        "stars": 23
-    },
-    {
-        "slug": "@astrojs/turbolinks",
-        "title": "@astrojs/turbolinks",
-        "description": "Turbolinks + Astro Integrations",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/turbolinks",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "@astrojs/turbolinks",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/turbolinks"
-        },
-        "image": {
-            "alt": "@astrojs/turbolinks",
-            "src": "/assets/integrations/turbolinks.svg"
-        },
-        "downloads": 101
-    },
-    {
-        "slug": "astro-vanilla-extract",
-        "title": "astro-vanilla-extract",
-        "description": "Adds vanilla-extract support to Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/codiume/orbit",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-vanilla-extract",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/codiume/orbit",
-            "text": "View homepage"
-        },
-        "downloads": 16,
-        "stars": 57
-    },
-    {
-        "slug": "@astro-community/astro-embed-youtube",
-        "title": "@astro-community/astro-embed-youtube",
-        "description": "Component to easily embed YouTube videos on your Astro site",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/astro-community/astro-embed",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astro-community/astro-embed-youtube",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/astro-community/astro-embed/tree/main/packages/astro-embed-youtube#readme",
-            "text": "View homepage"
-        },
-        "downloads": 324,
-        "stars": 33
-    },
-    {
-        "slug": "@astrojs/preact",
-        "title": "@astrojs/preact",
-        "description": "Use Preact components within Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/preact",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "@astrojs/preact",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/preact"
-        },
-        "image": {
-            "alt": "@astrojs/preact",
-            "src": "/assets/integrations/preact.svg"
-        },
-        "downloads": 2212
-    },
-    {
-        "slug": "@astrojs/node",
-        "title": "@astrojs/node",
-        "description": "Deploy your site to a Node.js server",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/node",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "@astrojs/node",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/node"
-        },
-        "image": {
-            "alt": "@astrojs/node",
-            "src": "/assets/integrations/node.svg"
-        },
-        "downloads": 2673
-    },
-    {
-        "slug": "@stylify/astro",
-        "title": "@stylify/astro",
-        "description": "Stylify generates utility-first CSS dynamically based on what you write. Write HTML. Get CSS.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/stylify/packages",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@stylify/astro",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://stylifycss.com",
-            "text": "View homepage"
-        },
-        "downloads": 59,
-        "stars": 172
-    },
-    {
-        "slug": "astro-google-analytics",
-        "title": "astro-google-analytics",
-        "description": "Provides Google Analytics 4 snippet injection.",
-        "categories": [
-            "css+ui",
-            "analytics"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-google-analytics",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-analytics",
-            "text": "View homepage"
-        },
-        "downloads": 3,
-        "stars": 55
-    },
-    {
-        "slug": "@astrojs/deno",
-        "title": "@astrojs/deno",
-        "description": "Deploy your site to a Deno server",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/deno",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "@astrojs/deno",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/deno"
-        },
-        "image": {
-            "alt": "@astrojs/deno",
-            "src": "/assets/integrations/deno.svg"
-        },
-        "downloads": 714
-    },
-    {
-        "slug": "astro-purgecss",
-        "title": "astro-purgecss",
-        "description": "Remove unused CSS rules from your final Astro bundle",
-        "categories": [
-            "css+ui",
-            "performance"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/codiume/orbit",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-purgecss",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/codiume/orbit",
-            "text": "View homepage"
-        },
-        "downloads": 70,
-        "stars": 57
-    },
-    {
-        "slug": "@astro-auth/providers",
-        "title": "@astro-auth/providers",
-        "description": "The providers package of the Astro Auth library",
+        "slug": "@astro-auth/ui",
+        "title": "@astro-auth/ui",
+        "description": "The UI package of the Astro Auth library",
         "categories": [
             "css+ui"
         ],
         "official": false,
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astro-auth/providers",
+            "href": "https://www.npmjs.com/package/@astro-auth/ui",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://www.npmjs.com/package/@astro-auth/providers",
+            "href": "https://www.npmjs.com/package/@astro-auth/ui",
             "text": "View on NPM"
         },
-        "downloads": 93
-    },
-    {
-        "slug": "astro-single-file",
-        "title": "astro-single-file",
-        "description": "Astro integration that allows developers to bundle the CSS and HTML in a single file",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/onmax/astro-single-file",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-single-file",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/onmax/astro-single-file",
-            "text": "View homepage"
-        },
-        "downloads": 8,
-        "stars": 4
+        "downloads": 35
     },
     {
         "slug": "astro-embed",
@@ -1343,859 +1042,34 @@
             "href": "https://github.com/astro-community/astro-embed/tree/main/packages/astro-embed#readme",
             "text": "View homepage"
         },
-        "downloads": 198,
+        "downloads": 273,
         "stars": 33
     },
     {
-        "slug": "astro-svg-loaders",
-        "title": "astro-svg-loaders",
-        "description": "Astro loading icons and small animations built with pure SVG.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/codiume/orbit",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-svg-loaders",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/codiume/orbit",
-            "text": "View homepage"
-        },
-        "downloads": 4,
-        "stars": 57
-    },
-    {
-        "slug": "@lloydjatkinson/astro-snipcart-design-system",
-        "title": "@lloydjatkinson/astro-snipcart-design-system",
-        "description": "This is [an unofficial template](#how-is-this-different-from-the-official-component-template) meant to ease the development of components for [Astro](https://astro.build/) that are intended for distribution. It does so by providing you with:",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart-design-system",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart-design-system",
-            "text": "View on NPM"
-        },
-        "downloads": 0
-    },
-    {
-        "slug": "@astrojs/image",
-        "title": "@astrojs/image",
-        "description": "Load and transform images in your Astro site.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/image",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://docs.astro.build/en/guides/integrations-guide/image/",
-            "text": "View homepage"
-        },
-        "downloads": 5735
-    },
-    {
-        "slug": "astro-tabs",
-        "title": "astro-tabs",
-        "description": "A tabs bar + panels component which works entirely without JS.\nSupports height equalization and automatic vertical scroll bar for tabs bar.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-tabs",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-tabs",
-            "text": "View homepage"
-        },
-        "downloads": 3,
-        "stars": 55
-    },
-    {
-        "slug": "@sarissa/pagination",
-        "title": "@sarissa/pagination",
-        "description": "Add page number buttons for pagination. Automaticly add and disable numbers as current page number.",
+        "slug": "astro-partytown-resolveurl",
+        "title": "astro-partytown-resolveurl",
+        "description": "Astro + Partytown integration",
         "categories": [
             "css+ui",
-            "accessibility"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/iozcelik/SarissaPagination",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@sarissa/pagination",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "View on Github",
-            "href": "https://github.com/iozcelik/SarissaPagination"
-        },
-        "downloads": 2,
-        "stars": 9
-    },
-    {
-        "slug": "@astro-reactive/form",
-        "title": "@astro-reactive/form",
-        "description": "The Reactive Form component for Astro 🔥",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/ayoayco/astro-reactive-library",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astro-reactive/form",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://docs.astro-reactive.dev/en/api/form/form-component/",
-            "text": "View homepage"
-        },
-        "downloads": 41,
-        "stars": 56
-    },
-    {
-        "slug": "@unocss/astro",
-        "title": "@unocss/astro",
-        "description": "UnoCSS integration for Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/unocss/unocss",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@unocss/astro",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/unocss/unocss#readme",
-            "text": "View homepage"
-        },
-        "downloads": 18062,
-        "stars": 7767
-    },
-    {
-        "slug": "@lloydjatkinson/astro-snipcart",
-        "title": "@lloydjatkinson/astro-snipcart",
-        "description": "This is [an unofficial template](#how-is-this-different-from-the-official-component-template) meant to ease the development of components for [Astro](https://astro.build/) that are intended for distribution. It does so by providing you with:",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart",
-            "text": "View on NPM"
-        },
-        "downloads": 7
-    },
-    {
-        "slug": "astro-themes",
-        "title": "astro-themes",
-        "description": "Easy dark mode for Astro websites",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/alex-grover/astro-themes",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-themes",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/alex-grover/astro-themes#readme",
-            "text": "View homepage"
-        },
-        "downloads": 6,
-        "stars": 5
-    },
-    {
-        "slug": "astro-iconify",
-        "title": "astro-iconify",
-        "description": "Fork of astro-icon. Lets you easily use the up to date iconify service as a straight forward astro icon component.",
-        "categories": [
-            "css+ui",
-            "performance"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/manuelmeister/astro-iconify",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-iconify",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/manuelmeister/astro-iconify#readme",
-            "text": "View homepage"
-        },
-        "downloads": 6,
-        "stars": 3
-    },
-    {
-        "slug": "astro-xelement",
-        "title": "astro-xelement",
-        "description": "XElement is a powerful Astro Web Component generator. Create your own Astro compliant Web Components using only HTML Elements with additional Client-Side JS/TS interactivity sprinkled into the Element.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/aFuzzyBear/xelement",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-xelement",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/aFuzzyBear/xelement",
-            "text": "View homepage"
-        },
-        "downloads": 59,
-        "stars": 34
-    },
-    {
-        "slug": "astro-useragent",
-        "title": "astro-useragent",
-        "description": "Parses browser user-agent strings for Astro",
-        "categories": [
-            "css+ui",
-            "accessibility"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/codiume/orbit",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-useragent",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/codiume/orbit",
-            "text": "View homepage"
-        },
-        "downloads": 16,
-        "stars": 57
-    },
-    {
-        "slug": "astro-page-transition",
-        "title": "astro-page-transition",
-        "description": "This component relies on the good old browser router, still, it will give to your website an SPA feel, without all the JS overhead.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-page-transition",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-transition",
-            "text": "View homepage"
-        },
-        "downloads": 14,
-        "stars": 55
-    },
-    {
-        "slug": "@astro-auth/client",
-        "title": "@astro-auth/client",
-        "description": "The client package of the Astro Auth library",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astro-auth/client",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://www.npmjs.com/package/@astro-auth/client",
-            "text": "View on NPM"
-        },
-        "downloads": 81
-    },
-    {
-        "slug": "astro-heroicons",
-        "title": "astro-heroicons",
-        "description": "Heroicons as Astro components",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/seanmcp/astro-heroicons",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-heroicons",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/seanmcp/astro-heroicons#readme",
-            "text": "View homepage"
-        },
-        "downloads": 64,
-        "stars": 2
-    },
-    {
-        "slug": "astro-netlify-components",
-        "title": "astro-netlify-components",
-        "description": "Astro components for Netlify",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/seanmcp/astro-netlify-components",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-netlify-components",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/seanmcp/astro-netlify-components#readme",
-            "text": "View homepage"
-        },
-        "downloads": 7,
-        "stars": 0
-    },
-    {
-        "slug": "astrojs-service-worker",
-        "title": "astrojs-service-worker",
-        "description": "An Astro integration that generates a Service Worker. Powered by Workbox.",
-        "categories": [
-            "css+ui",
+            "analytics",
             "performance",
             "seo"
         ],
         "official": false,
         "repoUrl": {
-            "href": "https://github.com/tatethurston/astrojs-service-worker",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astrojs-service-worker",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/tatethurston/astrojs-service-worker#readme",
-            "text": "View homepage"
-        },
-        "downloads": 53,
-        "stars": 13
-    },
-    {
-        "slug": "agnostic-astro",
-        "title": "agnostic-astro",
-        "description": "AgnosticUI (Astro)",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/AgnosticUI/agnosticui",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/agnostic-astro",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/AgnosticUI/agnosticui#readme",
-            "text": "View homepage"
-        },
-        "downloads": 37,
-        "stars": 530
-    },
-    {
-        "slug": "astro-critters",
-        "title": "astro-critters",
-        "description": "🦔 AstroJS GoogleChromeLabs critters integration. Inline your critical CSS with Astro.",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/astro-community/astro-critters",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-critters",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/astro-community/astro-critters#readme",
-            "text": "View homepage"
-        },
-        "downloads": 1235,
-        "stars": 31
-    },
-    {
-        "slug": "@futurefabric/astro-imagetools",
-        "title": "@futurefabric/astro-imagetools",
-        "description": "Image Optimization tools for the Astro JS framework",
-        "categories": [
-            "css+ui",
-            "performance"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/RafidMuhymin/astro-imagetools",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@futurefabric/astro-imagetools",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/RafidMuhymin/astro-imagetools#readme",
-            "text": "View homepage"
-        },
-        "downloads": 16,
-        "stars": 180
-    },
-    {
-        "slug": "@astrojs/netlify",
-        "title": "@astrojs/netlify",
-        "description": "Deploy your site to Netlify",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
             "href": "https://github.com/withastro/astro",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/netlify",
+            "href": "https://www.npmjs.com/package/astro-partytown-resolveurl",
             "text": "View on NPM"
         },
         "url": {
-            "alt": "@astrojs/netlify",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/netlify"
-        },
-        "image": {
-            "alt": "@astrojs/netlify",
-            "src": "/assets/integrations/netlify.svg"
-        },
-        "downloads": 729
-    },
-    {
-        "slug": "astro-imagetools",
-        "title": "astro-imagetools",
-        "description": "Image Optimization tools for the Astro JS framework",
-        "categories": [
-            "css+ui",
-            "performance"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/RafidMuhymin/astro-imagetools",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-imagetools",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/RafidMuhymin/astro-imagetools#readme",
-            "text": "View homepage"
-        },
-        "downloads": 975,
-        "stars": 180
-    },
-    {
-        "slug": "astro-scroll-observer",
-        "title": "astro-scroll-observer",
-        "description": "Viewport scroll position and direction watcher.\nBinds states data attributes to `HTML` for further JS/CSS usage.\nScroll event is throttled for performance economy.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-scroll-observer",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-scroll-observer",
-            "text": "View homepage"
-        },
-        "downloads": 1,
-        "stars": 55
-    },
-    {
-        "slug": "@julian_cataldo/astro-resets",
-        "title": "@julian_cataldo/astro-resets",
-        "description": "Common CSS resets in a configurable Astro component. Only needed CSS is injected into critical path.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@julian_cataldo/astro-resets",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-resets",
+            "href": "https://docs.astro.build/en/guides/integrations-guide/partytown/",
             "text": "View homepage"
         },
         "downloads": 0,
-        "stars": 55
-    },
-    {
-        "slug": "@astrojs/vue",
-        "title": "@astrojs/vue",
-        "description": "Use Vue components within Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/vue",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "@astrojs/vue",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/vue"
-        },
-        "image": {
-            "alt": "@astrojs/vue",
-            "src": "/assets/integrations/vue.svg"
-        },
-        "downloads": 5324
-    },
-    {
-        "slug": "@astrojs/tailwind",
-        "title": "@astrojs/tailwind",
-        "description": "Tailwind + Astro Integrations",
-        "categories": [
-            "css+ui"
-        ],
-        "official": true,
-        "repoUrl": {
-            "href": "https://github.com/withastro/astro",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrojs/tailwind",
-            "text": "View on NPM"
-        },
-        "url": {
-            "alt": "@astrojs/tailwind",
-            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/tailwind"
-        },
-        "image": {
-            "alt": "@astrojs/tailwind",
-            "src": "/assets/integrations/tailwind.svg"
-        },
-        "downloads": 12435
-    },
-    {
-        "slug": "astro-seo-metadata",
-        "title": "astro-seo-metadata",
-        "description": "Bare minimum SEO meta tags to make most social networks and Google engine happy.",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-seo-metadata",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-seo-metadata",
-            "text": "View homepage"
-        },
-        "downloads": 20,
-        "stars": 55
-    },
-    {
-        "slug": "@astro-community/astro-embed-twitter",
-        "title": "@astro-community/astro-embed-twitter",
-        "description": "Component to easily embed Tweets on your Astro site",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/astro-community/astro-embed",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astro-community/astro-embed-twitter",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/astro-community/astro-embed/tree/main/packages/astro-embed-twitter#readme",
-            "text": "View homepage"
-        },
-        "downloads": 193,
-        "stars": 33
-    },
-    {
-        "slug": "@astro-auth/ui",
-        "title": "@astro-auth/ui",
-        "description": "The UI package of the Astro Auth library",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astro-auth/ui",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://www.npmjs.com/package/@astro-auth/ui",
-            "text": "View on NPM"
-        },
-        "downloads": 36
-    },
-    {
-        "slug": "astro-tooltips",
-        "title": "astro-tooltips",
-        "description": "Progressively enhanced. This component globally override regular `title` attributes on all links with Tippy.js tooltips.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-tooltips",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-tooltips",
-            "text": "View homepage"
-        },
-        "downloads": 3,
-        "stars": 55
-    },
-    {
-        "slug": "astro-compress",
-        "title": "astro-compress",
-        "description": "🗜️ AstroJS compression utilities. Compress HTML, CSS, JavaScript and more.",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/astro-community/astro-compress",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-compress",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/astro-community/astro-compress#readme",
-            "text": "View homepage"
-        },
-        "downloads": 3155,
-        "stars": 124
-    },
-    {
-        "slug": "astro-katex",
-        "title": "astro-katex",
-        "description": "use KaTex and Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-katex",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/victor0x16/astro-katex#readme",
-            "text": "View homepage"
-        },
-        "downloads": 50
-    },
-    {
-        "slug": "@astrolib/seo",
-        "title": "@astrolib/seo",
-        "description": "Managing your SEO easier in Astro projects",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/onwidget/astrolib",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astrolib/seo",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/onwidget/astrolib/tree/main/packages/seo",
-            "text": "View homepage"
-        },
-        "downloads": 587,
-        "stars": 3
-    },
-    {
-        "slug": "astro-rome",
-        "title": "astro-rome",
-        "description": "🏛️ AstroJS Rome tools. Format, lint and check your Astro website with Rome.",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/astro-community/astro-rome",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-rome",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/astro-community/astro-rome#readme",
-            "text": "View homepage"
-        },
-        "downloads": 392,
-        "stars": 14
-    },
-    {
-        "slug": "@astro-community/astro-embed-vimeo",
-        "title": "@astro-community/astro-embed-vimeo",
-        "description": "Component to easily embed Vimeo videos on your Astro site",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/astro-community/astro-embed",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astro-community/astro-embed-vimeo",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/astro-community/astro-embed/tree/main/packages/astro-embed-vimeo#readme",
-            "text": "View homepage"
-        },
-        "downloads": 194,
-        "stars": 33
-    },
-    {
-        "slug": "astro-json-element",
-        "title": "astro-json-element",
-        "description": "Create/define HTML elements using JSON objects",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/BryceRussell/astro-json-element",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-json-element",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/BryceRussell/astro-json-element#readme",
-            "text": "View homepage"
-        },
-        "downloads": 29,
-        "stars": 11
-    },
-    {
-        "slug": "@analogjs/astro-angular",
-        "title": "@analogjs/astro-angular",
-        "description": "An Angular integration for Astro",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/analogjs/analog",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/@analogjs/astro-angular",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://analogjs.org",
-            "text": "View homepage"
-        },
-        "downloads": 71,
-        "stars": 546
+        "stars": 23150
     },
     {
         "slug": "@julian_cataldo/astro-lightbox",
@@ -2221,33 +1095,86 @@
         "stars": 55
     },
     {
-        "slug": "astro-html-beautifier",
-        "title": "astro-html-beautifier",
-        "description": "Beautify html files on astro final bundle with js-beautify",
+        "slug": "astro-robots-txt",
+        "title": "astro-robots-txt",
+        "description": "Generate a robots.txt for Astro",
         "categories": [
             "css+ui",
-            "performance"
+            "performance",
+            "seo"
         ],
         "official": false,
         "repoUrl": {
-            "href": "https://github.com/bangkitdev/astro-html-beautifier",
+            "href": "https://github.com/alextim/astro-lib",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-html-beautifier",
+            "href": "https://www.npmjs.com/package/astro-robots-txt",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/bangkitdev/astro-html-beautifier#readme",
+            "href": "https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme",
             "text": "View homepage"
         },
-        "downloads": 55,
-        "stars": 0
+        "downloads": 1296,
+        "stars": 23
     },
     {
-        "slug": "astro-seo-schema",
-        "title": "astro-seo-schema",
-        "description": "Easily insert valid Schema.org JSON-LD in your Astro apps.",
+        "slug": "astro-partytown-resolveurl-2",
+        "title": "astro-partytown-resolveurl-2",
+        "description": "Astro + Partytown integration",
+        "categories": [
+            "css+ui",
+            "analytics",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-partytown-resolveurl-2",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://docs.astro.build/en/guides/integrations-guide/partytown/",
+            "text": "View homepage"
+        },
+        "downloads": 0,
+        "stars": 23150
+    },
+    {
+        "slug": "@astrojs/react",
+        "title": "@astrojs/react",
+        "description": "Use React components within Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/react",
+            "text": "View on NPM"
+        },
+        "url": {
+            "alt": "@astrojs/react",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/react"
+        },
+        "image": {
+            "alt": "@astrojs/react",
+            "src": "/assets/integrations/react.svg"
+        },
+        "downloads": 7465
+    },
+    {
+        "slug": "astro-seo-meta",
+        "title": "astro-seo-meta",
+        "description": "Astro seo provides a <Seo> component to update meta tags",
         "categories": [
             "css+ui",
             "performance",
@@ -2259,15 +1186,38 @@
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-seo-schema",
+            "href": "https://www.npmjs.com/package/astro-seo-meta",
             "text": "View on NPM"
         },
         "url": {
             "href": "https://github.com/codiume/orbit",
             "text": "View homepage"
         },
-        "downloads": 346,
+        "downloads": 77,
         "stars": 57
+    },
+    {
+        "slug": "@astro-community/astro-embed-vimeo",
+        "title": "@astro-community/astro-embed-vimeo",
+        "description": "Component to easily embed Vimeo videos on your Astro site",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/astro-community/astro-embed",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astro-community/astro-embed-vimeo",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/astro-community/astro-embed/tree/main/packages/astro-embed-vimeo#readme",
+            "text": "View homepage"
+        },
+        "downloads": 267,
+        "stars": 33
     },
     {
         "slug": "astro-theme",
@@ -2293,123 +1243,56 @@
         "stars": 3
     },
     {
-        "slug": "astro-html-minifier",
-        "title": "astro-html-minifier",
-        "description": "A HTML minifier for Astro",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "ssh://git@github.com/sondr3/astro-html-minifier",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-html-minifier",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://github.com/sondr3/astro-html-minifier#readme",
-            "text": "View homepage"
-        },
-        "downloads": 64,
-        "stars": 3
-    },
-    {
-        "slug": "astro-i18next",
-        "title": "astro-i18next",
-        "description": "An astro integration of i18next + some utility components to help you translate your astro websites!",
-        "categories": [
-            "css+ui",
-            "performance",
-            "seo"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/yassinedoghri/astro-i18next",
-            "text": "View source code"
-        },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-i18next",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://astro-i18next.yassinedoghri.com/",
-            "text": "View homepage"
-        },
-        "downloads": 1226,
-        "stars": 157
-    },
-    {
-        "slug": "astro-diagram",
-        "title": "astro-diagram",
-        "description": "Embed you Mermaid diagrams inside your Astro templates.\nFeatures server-side rendering and smart caching.",
+        "slug": "@astrojs/solid-js",
+        "title": "@astrojs/solid-js",
+        "description": "Use Solid components within Astro",
         "categories": [
             "css+ui"
         ],
-        "official": false,
+        "official": true,
         "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
+            "href": "https://github.com/withastro/astro",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-diagram",
+            "href": "https://www.npmjs.com/package/@astrojs/solid-js",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://code.juliancataldo.com/component/astro-diagram",
-            "text": "View homepage"
+            "alt": "@astrojs/slid-js",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/solid"
         },
-        "downloads": 4,
-        "stars": 55
+        "image": {
+            "alt": "@astrojs/solid-js",
+            "src": "/assets/integrations/solid.svg"
+        },
+        "downloads": 1799
     },
     {
-        "slug": "@astro-reactive/validator",
-        "title": "@astro-reactive/validator",
-        "description": "Form validation library for Astro 🔥",
+        "slug": "@astrojs/deno",
+        "title": "@astrojs/deno",
+        "description": "Deploy your site to a Deno server",
         "categories": [
             "css+ui"
         ],
-        "official": false,
+        "official": true,
         "repoUrl": {
-            "href": "https://github.com/ayoayco/astro-reactive-library",
+            "href": "https://github.com/withastro/astro",
             "text": "View source code"
         },
         "npmUrl": {
-            "href": "https://www.npmjs.com/package/@astro-reactive/validator",
+            "href": "https://www.npmjs.com/package/@astrojs/deno",
             "text": "View on NPM"
         },
         "url": {
-            "href": "https://github.com/ayoayco/astro-reactive-library/blob/main/packages/validator/README.md",
-            "text": "View homepage"
+            "alt": "@astrojs/deno",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/deno"
         },
-        "downloads": 26,
-        "stars": 56
-    },
-    {
-        "slug": "astro-licenses-report",
-        "title": "astro-licenses-report",
-        "description": "Give credits to the awesome JS open-source community with this component. It will generate a table with important informations about packages used by your project.",
-        "categories": [
-            "css+ui"
-        ],
-        "official": false,
-        "repoUrl": {
-            "href": "https://github.com/JulianCataldo/web-garden",
-            "text": "View source code"
+        "image": {
+            "alt": "@astrojs/deno",
+            "src": "/assets/integrations/deno.svg"
         },
-        "npmUrl": {
-            "href": "https://www.npmjs.com/package/astro-licenses-report",
-            "text": "View on NPM"
-        },
-        "url": {
-            "href": "https://code.juliancataldo.com/component/astro-licenses-report",
-            "text": "View homepage"
-        },
-        "downloads": 0,
-        "stars": 55
+        "downloads": 734
     },
     {
         "slug": "astro-testbed",
@@ -2431,8 +1314,677 @@
             "href": "https://code.juliancataldo.com/component/astro-testbed",
             "text": "View homepage"
         },
+        "downloads": 2,
+        "stars": 55
+    },
+    {
+        "slug": "astro-fonts-next",
+        "title": "astro-fonts-next",
+        "description": "Astro integration that works the same way as Next.js font optimization.",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/dc7290/astro-fonts-next",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-fonts-next",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/dc7290/astro-fonts-next#readme",
+            "text": "View homepage"
+        },
+        "downloads": 50,
+        "stars": 13
+    },
+    {
+        "slug": "astro-single-file",
+        "title": "astro-single-file",
+        "description": "Astro integration that allows developers to bundle the CSS and HTML in a single file",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/onmax/astro-single-file",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-single-file",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/onmax/astro-single-file",
+            "text": "View homepage"
+        },
+        "downloads": 7,
+        "stars": 4
+    },
+    {
+        "slug": "@astro-auth/providers",
+        "title": "@astro-auth/providers",
+        "description": "The providers package of the Astro Auth library",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astro-auth/providers",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://www.npmjs.com/package/@astro-auth/providers",
+            "text": "View on NPM"
+        },
+        "downloads": 84
+    },
+    {
+        "slug": "astro-icon",
+        "title": "astro-icon",
+        "description": "A straight-forward `Icon` component for [Astro](https://astro.build).",
+        "categories": [
+            "css+ui",
+            "performance"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/natemoo-re/astro-icon",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-icon",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/natemoo-re/astro-icon#readme",
+            "text": "View homepage"
+        },
+        "image": {
+            "alt": "astro-icon",
+            "src": "/assets/integrations/astro-icon.svg"
+        },
+        "downloads": 2646,
+        "stars": 259
+    },
+    {
+        "slug": "astro-purgecss",
+        "title": "astro-purgecss",
+        "description": "Remove unused CSS rules from your final Astro bundle",
+        "categories": [
+            "css+ui",
+            "performance"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-purgecss",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View homepage"
+        },
+        "downloads": 63,
+        "stars": 57
+    },
+    {
+        "slug": "@igor.dvlpr/astro-post-excerpt",
+        "title": "@igor.dvlpr/astro-post-excerpt",
+        "description": "⭐ An Astro component that renders post excerpts for your Astro blog - directly from your Markdown files! 💎",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/igorskyflyer/npm-astro-post-excerpt",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@igor.dvlpr/astro-post-excerpt",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/igorskyflyer/npm-astro-post-excerpt#readme",
+            "text": "View homepage"
+        },
+        "downloads": 62,
+        "stars": 4
+    },
+    {
+        "slug": "astro-useragent",
+        "title": "astro-useragent",
+        "description": "Parses browser user-agent strings for Astro",
+        "categories": [
+            "css+ui",
+            "accessibility"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-useragent",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View homepage"
+        },
+        "downloads": 21,
+        "stars": 57
+    },
+    {
+        "slug": "astro-scroll-observer",
+        "title": "astro-scroll-observer",
+        "description": "Viewport scroll position and direction watcher.\nBinds states data attributes to `HTML` for further JS/CSS usage.\nScroll event is throttled for performance economy.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-scroll-observer",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-scroll-observer",
+            "text": "View homepage"
+        },
+        "downloads": 2,
+        "stars": 55
+    },
+    {
+        "slug": "astro-page-transition",
+        "title": "astro-page-transition",
+        "description": "This component relies on the good old browser router, still, it will give to your website an SPA feel, without all the JS overhead.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-page-transition",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-transition",
+            "text": "View homepage"
+        },
+        "downloads": 14,
+        "stars": 55
+    },
+    {
+        "slug": "astro-seo-metadata",
+        "title": "astro-seo-metadata",
+        "description": "Bare minimum SEO meta tags to make most social networks and Google engine happy.",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-seo-metadata",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-seo-metadata",
+            "text": "View homepage"
+        },
+        "downloads": 26,
+        "stars": 55
+    },
+    {
+        "slug": "astro-netlify-components",
+        "title": "astro-netlify-components",
+        "description": "Astro components for Netlify",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/seanmcp/astro-netlify-components",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-netlify-components",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/seanmcp/astro-netlify-components#readme",
+            "text": "View homepage"
+        },
+        "downloads": 43,
+        "stars": 0
+    },
+    {
+        "slug": "astro-base-document",
+        "title": "astro-base-document",
+        "description": "Provide sensible defaults for HTML base document.  \nThe goal is to reduce boilerplate when using multiple layouts in Astro projects.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-base-document",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-base",
+            "text": "View homepage"
+        },
         "downloads": 1,
         "stars": 55
+    },
+    {
+        "slug": "astro-spa",
+        "title": "astro-spa",
+        "description": "A component for Astro JS that turns a website into an SPA",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/RafidMuhymin/astro-spa",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-spa",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/RafidMuhymin/astro-spa#readme",
+            "text": "View homepage"
+        },
+        "downloads": 106,
+        "stars": 251
+    },
+    {
+        "slug": "@storyblok/astro",
+        "title": "@storyblok/astro",
+        "description": "Official Astro integration for the Storyblok Headless CMS",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/storyblok/storyblok-astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@storyblok/astro",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/storyblok/storyblok-astro",
+            "text": "View homepage"
+        },
+        "downloads": 89,
+        "stars": 25
+    },
+    {
+        "slug": "astro-analytics",
+        "title": "astro-analytics",
+        "description": "Analytics components for Astro",
+        "categories": [
+            "css+ui",
+            "analytics"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/Destiner/astro-analytics",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-analytics",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/Destiner/astro-analytics#readme",
+            "text": "View homepage"
+        },
+        "downloads": 117,
+        "stars": 38
+    },
+    {
+        "slug": "astro-tabs",
+        "title": "astro-tabs",
+        "description": "A tabs bar + panels component which works entirely without JS.\nSupports height equalization and automatic vertical scroll bar for tabs bar.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-tabs",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-tabs",
+            "text": "View homepage"
+        },
+        "downloads": 4,
+        "stars": 55
+    },
+    {
+        "slug": "@analogjs/astro-angular",
+        "title": "@analogjs/astro-angular",
+        "description": "An Angular integration for Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/analogjs/analog",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@analogjs/astro-angular",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://analogjs.org",
+            "text": "View homepage"
+        },
+        "downloads": 65,
+        "stars": 550
+    },
+    {
+        "slug": "astro-google-analytics",
+        "title": "astro-google-analytics",
+        "description": "Provides Google Analytics 4 snippet injection.",
+        "categories": [
+            "css+ui",
+            "analytics"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-google-analytics",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-analytics",
+            "text": "View homepage"
+        },
+        "downloads": 4,
+        "stars": 55
+    },
+    {
+        "slug": "astro-diagram",
+        "title": "astro-diagram",
+        "description": "Embed you Mermaid diagrams inside your Astro templates.\nFeatures server-side rendering and smart caching.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-diagram",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-diagram",
+            "text": "View homepage"
+        },
+        "downloads": 7,
+        "stars": 55
+    },
+    {
+        "slug": "astro-emoji",
+        "title": "astro-emoji",
+        "description": "An accessible emoji component for Astro applications",
+        "categories": [
+            "css+ui",
+            "accessibility"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/seanmcp/astro-emoji",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-emoji",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/seanmcp/astro-emoji#readme",
+            "text": "View homepage"
+        },
+        "downloads": 31,
+        "stars": 2
+    },
+    {
+        "slug": "astro-seo-schema",
+        "title": "astro-seo-schema",
+        "description": "Easily insert valid Schema.org JSON-LD in your Astro apps.",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-seo-schema",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View homepage"
+        },
+        "downloads": 343,
+        "stars": 57
+    },
+    {
+        "slug": "@astrojs/svelte",
+        "title": "@astrojs/svelte",
+        "description": "Use Svelte components within Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/svelte",
+            "text": "View on NPM"
+        },
+        "url": {
+            "alt": "@astrojs/svelte",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/svelte"
+        },
+        "image": {
+            "alt": "@astrojs/svelte",
+            "src": "/assets/integrations/svelte.svg"
+        },
+        "downloads": 4291
+    },
+    {
+        "slug": "astro-rome",
+        "title": "astro-rome",
+        "description": "🏛️ AstroJS Rome tools. Format, lint and check your Astro website with Rome.",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/astro-community/astro-rome",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-rome",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/astro-community/astro-rome#readme",
+            "text": "View homepage"
+        },
+        "downloads": 359,
+        "stars": 14
+    },
+    {
+        "slug": "astro-compress",
+        "title": "astro-compress",
+        "description": "🗜️ AstroJS compression utilities. Compress HTML, CSS, JavaScript and more.",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/astro-community/astro-compress",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-compress",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/astro-community/astro-compress#readme",
+            "text": "View homepage"
+        },
+        "downloads": 3251,
+        "stars": 124
+    },
+    {
+        "slug": "@astrojs/vercel",
+        "title": "@astrojs/vercel",
+        "description": "Deploy your site to Vercel",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/vercel",
+            "text": "View on NPM"
+        },
+        "url": {
+            "alt": "@astrojs/vercel",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/vercel"
+        },
+        "image": {
+            "alt": "@astrojs/vercel",
+            "src": "/assets/integrations/vercel.svg"
+        },
+        "downloads": 1863
+    },
+    {
+        "slug": "@astrojs/sitemap",
+        "title": "@astrojs/sitemap",
+        "description": "Generate a sitemap for Astro",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/sitemap",
+            "text": "View on NPM"
+        },
+        "url": {
+            "alt": "@astrojs/sitemap",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/sitemap"
+        },
+        "image": {
+            "alt": "@astrojs/sitemap",
+            "src": "/assets/integrations/sitemap.svg"
+        },
+        "downloads": 8989
+    },
+    {
+        "slug": "astro-json-element",
+        "title": "astro-json-element",
+        "description": "Create/define HTML elements using JSON objects",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/BryceRussell/astro-json-element",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-json-element",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/BryceRussell/astro-json-element#readme",
+            "text": "View homepage"
+        },
+        "downloads": 35,
+        "stars": 11
+    },
+    {
+        "slug": "@astrojs/markdown-component",
+        "title": "@astrojs/markdown-component",
+        "description": "This package brings legacy support for the `<Markdown />` component to all Astro projects.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/markdown-component",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://docs.astro.build/en/migrate/#markdown--component-removed",
+            "text": "View homepage"
+        },
+        "downloads": 2216
     },
     {
         "slug": "astro-hover-prefetch",
@@ -2454,8 +2006,316 @@
             "href": "https://code.juliancataldo.com/component/astro-hover-prefetch",
             "text": "View homepage"
         },
-        "downloads": 2,
+        "downloads": 5,
         "stars": 55
+    },
+    {
+        "slug": "astro-i18n",
+        "title": "astro-i18n",
+        "description": "A TypeScript-first internationalization library for Astro.",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/alexandre-fernandez/astro-i18n",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-i18n",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/alexandre-fernandez/astro-i18n",
+            "text": "View homepage"
+        },
+        "downloads": 398,
+        "stars": 12
+    },
+    {
+        "slug": "@unocss/astro",
+        "title": "@unocss/astro",
+        "description": "UnoCSS integration for Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/unocss/unocss",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@unocss/astro",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/unocss/unocss#readme",
+            "text": "View homepage"
+        },
+        "downloads": 18795,
+        "stars": 7776
+    },
+    {
+        "slug": "astrojs-service-worker",
+        "title": "astrojs-service-worker",
+        "description": "An Astro integration that generates a Service Worker. Powered by Workbox.",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/tatethurston/astrojs-service-worker",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astrojs-service-worker",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/tatethurston/astrojs-service-worker#readme",
+            "text": "View homepage"
+        },
+        "downloads": 52,
+        "stars": 13
+    },
+    {
+        "slug": "astro-vanilla-extract",
+        "title": "astro-vanilla-extract",
+        "description": "Adds vanilla-extract support to Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-vanilla-extract",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View homepage"
+        },
+        "downloads": 19,
+        "stars": 57
+    },
+    {
+        "slug": "astro-github-stats",
+        "title": "astro-github-stats",
+        "description": "Embed GitHub stats in your Astro page ✨",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/ayoayco/astro-github-stats",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-github-stats",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://ayco.io/showcase/astro-github-stats",
+            "text": "View homepage"
+        },
+        "downloads": 10,
+        "stars": 3
+    },
+    {
+        "slug": "astro-themes",
+        "title": "astro-themes",
+        "description": "Easy dark mode for Astro websites",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/alex-grover/astro-themes",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-themes",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/alex-grover/astro-themes#readme",
+            "text": "View homepage"
+        },
+        "downloads": 24,
+        "stars": 5
+    },
+    {
+        "slug": "astro-html-beautifier",
+        "title": "astro-html-beautifier",
+        "description": "Beautify html files on astro final bundle with js-beautify",
+        "categories": [
+            "css+ui",
+            "performance"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/bangkitdev/astro-html-beautifier",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-html-beautifier",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/bangkitdev/astro-html-beautifier#readme",
+            "text": "View homepage"
+        },
+        "downloads": 71,
+        "stars": 0
+    },
+    {
+        "slug": "@astrojs/prism",
+        "title": "@astrojs/prism",
+        "description": "Supports Prism highlighting in Astro projects",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/prism",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://docs.astro.build/en/reference/api-reference/#prism-",
+            "text": "View homepage"
+        },
+        "downloads": 28750
+    },
+    {
+        "slug": "@astrojs/vue",
+        "title": "@astrojs/vue",
+        "description": "Use Vue components within Astro",
+        "categories": [
+            "css+ui"
+        ],
+        "official": true,
+        "repoUrl": {
+            "href": "https://github.com/withastro/astro",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrojs/vue",
+            "text": "View on NPM"
+        },
+        "url": {
+            "alt": "@astrojs/vue",
+            "href": "https://github.com/withastro/astro/tree/main/packages/integrations/vue"
+        },
+        "image": {
+            "alt": "@astrojs/vue",
+            "src": "/assets/integrations/vue.svg"
+        },
+        "downloads": 5525
+    },
+    {
+        "slug": "accessible-astro-components",
+        "title": "accessible-astro-components",
+        "description": "A set of Accessible, easy to use, Front-end UI Components for Astro.",
+        "categories": [
+            "css+ui",
+            "accessibility"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/markteekman/accessible-astro-components",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/accessible-astro-components",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://accessible-astro.dev",
+            "text": "View homepage"
+        },
+        "downloads": 113,
+        "stars": 85
+    },
+    {
+        "slug": "@jop-software/astro-matomo",
+        "title": "@jop-software/astro-matomo",
+        "description": "Matomo integration for Astro",
+        "categories": [
+            "css+ui",
+            "analytics"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/jop-software/astro-matomo",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@jop-software/astro-matomo",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/jop-software/astro-matomo#readme",
+            "text": "View homepage"
+        },
+        "downloads": 14,
+        "stars": 0
+    },
+    {
+        "slug": "astro-geo-map",
+        "title": "astro-geo-map",
+        "description": "Embed an interactive map in your webpage.\nUsing Leaflet.js under the hood.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-geo-map",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-geo-map",
+            "text": "View homepage"
+        },
+        "downloads": 5,
+        "stars": 55
+    },
+    {
+        "slug": "@astro-community/astro-embed-twitter",
+        "title": "@astro-community/astro-embed-twitter",
+        "description": "Component to easily embed Tweets on your Astro site",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/astro-community/astro-embed",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astro-community/astro-embed-twitter",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/astro-community/astro-embed/tree/main/packages/astro-embed-twitter#readme",
+            "text": "View homepage"
+        },
+        "downloads": 268,
+        "stars": 33
     },
     {
         "slug": "astro-gap",
@@ -2473,6 +2333,146 @@
             "href": "https://www.npmjs.com/package/astro-gap",
             "text": "View on NPM"
         },
-        "downloads": 206
+        "downloads": 227
+    },
+    {
+        "slug": "astro-feather-icons",
+        "title": "astro-feather-icons",
+        "description": "Feather icons for Astro (based on svelte-feather-icons by dylanblokhuis)",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/edazpotato/astro-feather-icons",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-feather-icons",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/edazpotato/astro-feather-icons#readme",
+            "text": "View homepage"
+        },
+        "downloads": 206,
+        "stars": 4
+    },
+    {
+        "slug": "@astro-reactive/form",
+        "title": "@astro-reactive/form",
+        "description": "The Reactive Form component for Astro 🔥",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/ayoayco/astro-reactive-library",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astro-reactive/form",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://docs.astro-reactive.dev/en/api/form/form-component/",
+            "text": "View homepage"
+        },
+        "downloads": 118,
+        "stars": 56
+    },
+    {
+        "slug": "@astrolib/seo",
+        "title": "@astrolib/seo",
+        "description": "Managing your SEO easier in Astro projects",
+        "categories": [
+            "css+ui",
+            "performance",
+            "seo"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/onwidget/astrolib",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@astrolib/seo",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/onwidget/astrolib/tree/main/packages/seo",
+            "text": "View homepage"
+        },
+        "downloads": 626,
+        "stars": 3
+    },
+    {
+        "slug": "astro-tooltips",
+        "title": "astro-tooltips",
+        "description": "Progressively enhanced. This component globally override regular `title` attributes on all links with Tippy.js tooltips.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/JulianCataldo/web-garden",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-tooltips",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://code.juliancataldo.com/component/astro-tooltips",
+            "text": "View homepage"
+        },
+        "downloads": 4,
+        "stars": 55
+    },
+    {
+        "slug": "@stylify/astro",
+        "title": "@stylify/astro",
+        "description": "Stylify generates utility-first CSS dynamically based on what you write. Write HTML. Get CSS.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/stylify/packages",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/@stylify/astro",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://stylifycss.com",
+            "text": "View homepage"
+        },
+        "downloads": 61,
+        "stars": 176
+    },
+    {
+        "slug": "astro-svg-loaders",
+        "title": "astro-svg-loaders",
+        "description": "Astro loading icons and small animations built with pure SVG.",
+        "categories": [
+            "css+ui"
+        ],
+        "official": false,
+        "repoUrl": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View source code"
+        },
+        "npmUrl": {
+            "href": "https://www.npmjs.com/package/astro-svg-loaders",
+            "text": "View on NPM"
+        },
+        "url": {
+            "href": "https://github.com/codiume/orbit",
+            "text": "View homepage"
+        },
+        "downloads": 6,
+        "stars": 57
     }
 ]

@@ -363,6 +363,13 @@
             "image": null,
             "initials": "VK",
             "href": null
+        },
+        {
+            "id": 368638,
+            "name": "iqhater",
+            "image": "/assets/sponsors/368638.jpg",
+            "initials": "I",
+            "href": "https://github.com/iqhater"
         }
     ]
 }

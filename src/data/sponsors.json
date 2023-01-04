@@ -370,6 +370,13 @@
             "image": "/assets/sponsors/368638.jpg",
             "initials": "I",
             "href": "https://github.com/iqhater"
+        },
+        {
+            "id": 378344,
+            "name": "Ship Shape",
+            "image": "/assets/sponsors/378344.jpg",
+            "initials": "SS",
+            "href": "https://shipshape.io"
         }
     ]
 }

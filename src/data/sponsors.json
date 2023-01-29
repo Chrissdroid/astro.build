@@ -384,6 +384,13 @@
             "image": "/assets/sponsors/387715.jpg",
             "initials": "AR",
             "href": "https://adamrecvlohe.com"
+        },
+        {
+            "id": 390106,
+            "name": "Nikola Hristov",
+            "image": "/assets/sponsors/390106.jpg",
+            "initials": "NH",
+            "href": null
         }
     ]
 }

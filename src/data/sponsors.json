@@ -398,6 +398,13 @@
             "image": null,
             "initials": "C",
             "href": null
+        },
+        {
+            "id": 395143,
+            "name": "Jared Truscott",
+            "image": "/assets/sponsors/395143.jpg",
+            "initials": "JT",
+            "href": null
         }
     ]
 }

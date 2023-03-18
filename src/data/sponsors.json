@@ -405,6 +405,20 @@
             "image": "/assets/sponsors/395143.jpg",
             "initials": "JT",
             "href": null
+        },
+        {
+            "id": 410103,
+            "name": "Diu",
+            "image": "/assets/sponsors/410103.jpg",
+            "initials": "D",
+            "href": "https://ddiu.io/"
+        },
+        {
+            "id": 411215,
+            "name": "Anca Emcken",
+            "image": "/assets/sponsors/411215.jpg",
+            "initials": "AE",
+            "href": null
         }
     ]
 }

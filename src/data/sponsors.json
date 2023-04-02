@@ -419,6 +419,13 @@
             "image": "/assets/sponsors/411215.jpg",
             "initials": "AE",
             "href": null
+        },
+        {
+            "id": 416217,
+            "name": "moonrepo",
+            "image": "/assets/sponsors/416217.jpg",
+            "initials": "M",
+            "href": "https://moonrepo.dev"
         }
     ]
 }

@@ -426,6 +426,13 @@
             "image": "/assets/sponsors/416217.jpg",
             "initials": "M",
             "href": "https://moonrepo.dev"
+        },
+        {
+            "id": 420016,
+            "name": "Colin McDermott",
+            "image": "/assets/sponsors/420016.jpg",
+            "initials": "CM",
+            "href": "https://www.searchcandy.uk/"
         }
     ]
 }

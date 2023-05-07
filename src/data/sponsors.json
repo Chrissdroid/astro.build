@@ -377,62 +377,6 @@
             "image": "/assets/sponsors/378344.jpg",
             "initials": "SS",
             "href": "https://shipshape.io"
-        },
-        {
-            "id": 387715,
-            "name": "Adam Recvlohe",
-            "image": "/assets/sponsors/387715.jpg",
-            "initials": "AR",
-            "href": "https://adamrecvlohe.com"
-        },
-        {
-            "id": 390106,
-            "name": "Nikola Hristov",
-            "image": "/assets/sponsors/390106.jpg",
-            "initials": "NH",
-            "href": null
-        },
-        {
-            "id": 390437,
-            "name": "CLET",
-            "image": null,
-            "initials": "C",
-            "href": null
-        },
-        {
-            "id": 395143,
-            "name": "Jared Truscott",
-            "image": "/assets/sponsors/395143.jpg",
-            "initials": "JT",
-            "href": null
-        },
-        {
-            "id": 410103,
-            "name": "Diu",
-            "image": "/assets/sponsors/410103.jpg",
-            "initials": "D",
-            "href": "https://ddiu.io/"
-        },
-        {
-            "id": 411215,
-            "name": "Anca Emcken",
-            "image": "/assets/sponsors/411215.jpg",
-            "initials": "AE",
-            "href": "https://www.anca.io/"
-        },
-        {
-            "id": 416217,
-            "name": "moonrepo",
-            "image": "/assets/sponsors/416217.jpg",
-            "initials": "M",
-            "href": "https://moonrepo.dev"
-        },
-        {
-            "id": 420016,
-            "name": "Colin McDermott",
-            "image": "/assets/sponsors/420016.jpg",
-            "initials": "CM",
-            "href": "https://www.searchcandy.uk/"
         }
     ]
 }

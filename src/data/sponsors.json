@@ -433,6 +433,13 @@
             "image": "/assets/sponsors/420016.jpg",
             "initials": "CM",
             "href": "https://www.searchcandy.uk/"
+        },
+        {
+            "id": 435377,
+            "name": "Thinkmill",
+            "image": "/assets/sponsors/435377.jpg",
+            "initials": "T",
+            "href": "https://www.thinkmill.com.au"
         }
     ]
 }

@@ -468,6 +468,13 @@
             "image": null,
             "initials": "CC",
             "href": null
+        },
+        {
+            "id": 464084,
+            "name": "0xk1f0",
+            "image": "/assets/sponsors/464084.jpg",
+            "initials": "0",
+            "href": "https://k1f0.dev/"
         }
     ]
 }

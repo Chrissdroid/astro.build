@@ -475,6 +475,13 @@
             "image": "/assets/sponsors/464084.jpg",
             "initials": "0",
             "href": "https://k1f0.dev/"
+        },
+        {
+            "id": 473003,
+            "name": "Tanzim Mokammel",
+            "image": null,
+            "initials": "TM",
+            "href": null
         }
     ]
 }

@@ -482,6 +482,20 @@
             "image": null,
             "initials": "TM",
             "href": null
+        },
+        {
+            "id": 474240,
+            "name": "落樱 Luoingly",
+            "image": "/assets/sponsors/474240.jpg",
+            "initials": "落L",
+            "href": "https://luoingly.top/"
+        },
+        {
+            "id": 474528,
+            "name": "Frank Stallone II",
+            "image": null,
+            "initials": "FS",
+            "href": null
         }
     ]
 }
